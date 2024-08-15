@@ -1,7 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
-  background-color: #fafafa;
-  color: #292727;
+  background-color: #ffffff;
+  color: #201f1f;
 }
 
 .container {
@@ -20,7 +20,7 @@ a {
 
   /* Что делать при наведении на ссылку */
 a:hover {
-  color:#58514b;
+  color:#797266;
 }
 
   /* Этим свойством добавляем подчеркивание через создание псевдокласса */
@@ -55,7 +55,7 @@ h2 {
 
   /* Эффект наведения на картинку */
 .photo:hover {
-  border: 3px solid #58514b;
+  border: 3px solid #f8ed54;
 }
 
 button {
