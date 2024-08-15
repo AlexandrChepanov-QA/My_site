@@ -1,7 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
-  background-color: #f3f3f3;
-  color: black;
+  background-color: #fafafa;
+  color: #292727;
 }
 
 .container {
@@ -15,7 +15,7 @@ a {
   text-decoration:none;
   margin-bottom: 1.2em;
   position: relative;
-  color: white;
+  color: #292727;
 }
 
   /* Что делать при наведении на ссылку */
